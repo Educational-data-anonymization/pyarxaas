@@ -1,4 +1,4 @@
-from collections import Sequence
+from collections.abc import Sequence
 
 from pyarxaas.models.attribute_type import AttributeType
 

@@ -90,8 +90,8 @@ setup(
     #
     # For an analysis of "install_requires" vs pip's requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=["uplink==0.9.0",
-                      "pandas==1.1.3"],  # Optional
+    install_requires=["uplink",
+                      "pandas"],  # Optional
 
     # List additional groups of dependencies here (e.g. development
     # dependencies). Users will be able to install these using the "extras"
