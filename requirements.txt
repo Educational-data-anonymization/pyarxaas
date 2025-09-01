@@ -1,7 +1,7 @@
 sphinx
 sphinx_rtd_theme
 nbsphinx
-pandoc
+# pandoc is not a Python package, so version is not pinned
 pytest-cov
-uplink
-pandas
+uplink==0.10.0
+pandas==2.3.2
